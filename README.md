@@ -2,6 +2,8 @@
 The reward function achieved top 10% in competition.
 
 Training Specs:
+
+| Hyperparameters | Assignment |
 |---|---|
 | Gradient descent batch size	| 64 |
 | Entropy	| 0.01 |
@@ -14,5 +16,6 @@ Training Specs:
 Training Time: 3 Hours
 
 Input Space: 
+
 [0.5, 3.5] m/s 
 [-22.5, 22.5] degrees
