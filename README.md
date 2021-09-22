@@ -1,5 +1,5 @@
 # AWS-DeepRacer
-The reward function achieved 42 sec on *re:Invent 2018* by time trial.
+The reward function achieved 42 sec on *re:Invent 2018* by time trial (3 laps).
 
 Training Specs:
 
