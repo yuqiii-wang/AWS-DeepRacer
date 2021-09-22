@@ -15,7 +15,7 @@ Training Specs:
 
 Training Time: 3 Hours
 
-Input Space: 
-
-[0.5, 3.5] m/s 
-[-22.5, 22.5] degrees
+| Input Space |
+|---|
+| [0.5, 3.5] m/s |
+| [-22.5, 22.5] degrees |
