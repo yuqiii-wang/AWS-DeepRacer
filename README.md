@@ -1,2 +1,2 @@
 # AWS-DeepRacer
-The reward function achieved top 10% on competition.
+The reward function achieved top 10% in competition.
